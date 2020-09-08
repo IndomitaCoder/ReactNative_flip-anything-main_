@@ -76,3 +76,4 @@ const Profile: React.FC<ProfileProps> = ({ navigation }) => {
 }
 
 export default Profile
+ 

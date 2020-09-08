@@ -64,3 +64,4 @@ const Main: React.FC<MainProps> = ({ navigation }) => {
 }
 
 export default Main
+ 

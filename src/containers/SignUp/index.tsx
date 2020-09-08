@@ -77,3 +77,4 @@ const SignUp: React.FC<SignUpProps> = ({ navigation }) => {
 }
 
 export default SignUp
+ 
